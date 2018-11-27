@@ -1,6 +1,6 @@
 # nuxt-starter-ts
 
-> My ace Nuxt.js project
+> A class-based Nuxt 2.0+ starter template with TypeScript integration.
 
 ## Build Setup
 
