@@ -1,4 +1,4 @@
-# nuxt-starter-ts
+# Nuxt Starter Varia
 
 > A class-based Nuxt 2.0+ starter template with TypeScript integration.
 
