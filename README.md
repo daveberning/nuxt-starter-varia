@@ -1,4 +1,4 @@
-# Vue Starter Varia
+# Nuxt Starter Varia
 
 This is a starter template to jump start projects using Vue.js and TypeScript. Common dependencies have already been saved and configured in the `package.json` file. All you need to do is run a few commands to install the dependencies and start the development server. You can use Yarn or NPM to install and run your local node server; it is recommended to use Yarn whenever possible.
 
