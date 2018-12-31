@@ -1,6 +1,6 @@
 # Nuxt Starter Varia
 
-This is a starter template to jump start projects using Vue.js and TypeScript. Common dependencies have already been saved and configured in the `package.json` file. All you need to do is run a few commands to install the dependencies and start the development server. You can use Yarn or NPM to install and run your local node server; it is recommended to use Yarn whenever possible.
+This is a starter template to jump start universal Vue.js projects with Nuxt.js and TypeScript. Common dependencies have already been saved and configured in the `package.json` file. All you need to do is run a few commands to install the dependencies and start the development server. You can use Yarn or NPM to install and run your local node server; it is recommended to use Yarn whenever possible.
 
 This stack was named after the iconic Varia suit that Samus Aran wears throughout the Metroid series. This template provides a variety of front-end technologies that help with development and code quality. Much the Varia suit, technologies like Vue.js, Vuex, and TypeScript help reduce the amount of damage (errors) taken and increase the developer's speed and performance.
 
@@ -38,7 +38,6 @@ With the Varia template, the "Varia" stack is already in use and configured out-
 - [Vuex (State Management)](https://vuex.vuejs.org/)
 - [Vue Router (Routing)](https://router.vuejs.org/)
 - [Typescript (class-based)](http://www.typescriptlang.org/)
-- [Bootstrap 4](https://getbootstrap.com/)
 - [SCSS (SASS)](https://sass-lang.com/)
 - Functioning Notification and Modal Components
 
