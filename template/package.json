@@ -33,6 +33,7 @@
     "eslint-loader": "^2.0.0",
     "eslint-plugin-prettier": "2.6.2",
     "eslint-plugin-vue": "^4.0.0",
+    "typescript-eslint-parser": "^21.0.2",
     "nodemon": "^1.11.0",
     "prettier": "1.14.3"
   }
