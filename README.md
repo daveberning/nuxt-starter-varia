@@ -39,7 +39,6 @@ With the Varia template, the "Varia" stack is already in use and configured out-
 - [Vue Router (Routing)](https://router.vuejs.org/)
 - [Typescript (class-based)](http://www.typescriptlang.org/)
 - [SCSS (SASS)](https://sass-lang.com/)
-- Functioning Notification and Modal Components
 
 ## Naming Conventions and Standards
 
