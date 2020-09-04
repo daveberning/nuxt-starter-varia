@@ -16,7 +16,7 @@
     "@nuxtjs/axios": "^5.0.0",
     "@types/node": "^10.12.10",
     "cross-env": "^5.2.0",
-    "node-sass": "^4.10.0",
+    "node-sass": "^4.13.1",
     "nuxt": "^2.0.0",
     "nuxt-property-decorator": "^1.2.0",
     "nuxt-typescript": "^0.11.0",
